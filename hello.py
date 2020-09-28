@@ -1,1 +1,2 @@
-print('Hello world!')
+name = 'Luca'
+print('Hello %s!' % name)
